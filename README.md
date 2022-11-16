@@ -27,13 +27,13 @@ def divide(x, y):
 
 print("Select operation.")
 
-print("1.Add")
+print("10 Addition ")
 
 print("2.Subtract")
 
-print("3.Multiply")
+print("pluse")
 
-print("4.Divide")
+print("4.Divideee")
 
 while True:
 
@@ -53,7 +53,7 @@ while True:
 
             print(num1, "+", num2, "=", add(num1, num2))
 
-        elif choice == '2':
+        elif choice == '5':
 
             print(num1, "-", num2, "=", subtract(num1, num2))
 
